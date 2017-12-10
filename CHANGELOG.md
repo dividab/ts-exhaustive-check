@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 * First version.
 
+## 0.2.0
+
+* Update readme.
+
 ## 0.1.0
 
 * Initial version.
