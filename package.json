@@ -1,7 +1,7 @@
 {
   "name": "ts-exhaustive-check",
   "version": "1.0.0",
-  "description": "Typescript exhaustive check for type never",
+  "description": "Exhaustive check for typescript type never",
   "main": "lib-cjs/index.js",
   "module": "lib-esm/index.js",
   "types": "lib-cjs/index",

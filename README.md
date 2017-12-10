@@ -3,6 +3,10 @@
 [![npm version][version-image]][version-url]
 [![MIT license][license-image]][license-url]
 
+> Exhaustive check for typescript type never.
+
+## Usage
+
 This package has a single function that just checks if a typescript type is of type `never`.
 
 It can be used like this:
