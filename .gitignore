@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+node_modules/
+lib-cjs/
+lib-esm/
+temp/
+js_out/
+.DS_Store
+thumbs.db
+*.log
+example-js/
