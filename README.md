@@ -69,5 +69,5 @@ function area(s: Shape) {
 
 [version-image]: https://img.shields.io/npm/v/ts-exhaustive-check.svg?style=flat
 [version-url]: https://www.npmjs.com/package/ts-exhaustive-check
-[license-image]: https://img.shields.io/github/license/jonaskello/ts-exhaustive-check.svg?style=flat
+[license-image]: https://img.shields.io/github/license/dividab/ts-exhaustive-check.svg?style=flat
 [license-url]: https://opensource.org/licenses/MIT

@@ -13,6 +13,8 @@
     "build:clean": "rm -rf ./lib-cjs ./lib-esm",
     "build:cjs": "tsc -p src",
     "build:esm": "tsc -p src --module es2015 --outDir ./lib-esm",
-    "example": "tsc -p example && node example-js/example/index.js"
+    "example": "tsc -p example && node example-js/example/index.js",
+    "publish":
+      "yarn build && yarn version && git push && git push --tags && npm publish"
   }
 }
