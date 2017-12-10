@@ -5,11 +5,17 @@
 
 > Exhaustive check for typescript type never.
 
-## Usage
+## Description
 
 This package has a single function that just checks if a typescript type is of type `never`.
 
-It can be used like this:
+For more information see [discriminated-unions](https://basarat.gitbooks.io/typescript/content/docs/types/discriminated-unions.html) and [typescript issue 6155](https://github.com/Microsoft/TypeScript/issues/6155).
+
+## Usage
+
+```
+yarn add ts-exhaustive-check
+```
 
 ```typescript
 import { exhaustiveCheck } from "ts-exhaustive-check";
@@ -45,8 +51,6 @@ function area(s: Shape) {
   }
 }
 ```
-
-For more information see [discriminated-unions](https://basarat.gitbooks.io/typescript/content/docs/types/discriminated-unions.html) and [typescript issue 6155](https://github.com/Microsoft/TypeScript/issues/6155).
 
 [version-image]: https://img.shields.io/npm/v/ts-exhaustive-check.svg?style=flat
 [version-url]: https://www.npmjs.com/package/ts-exhaustive-check
