@@ -11,9 +11,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [1.0.0]
 
-* First version.
+* First release.
 
-## 0.2.0
+## [0.2.0]
 
 * Update readme.
 
@@ -22,4 +22,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 * Initial version.
 
 [unreleased]: https://github.com/dividab/tsconfig-paths/compare/1.0.0...master
-[1.0.0]: https://github.com/dividab/tsconfig-paths/compare/0.1.0...1.0.0
+[1.0.0]: https://github.com/dividab/tsconfig-paths/compare/0.2.0...1.0.0
+[0.2.0]: https://github.com/dividab/tsconfig-paths/compare/0.1.0...0.2.0
