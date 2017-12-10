@@ -1,6 +1,6 @@
 {
   "name": "ts-exhaustive-check",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Exhaustive check for typescript type never",
   "main": "lib-cjs/index.js",
   "module": "lib-esm/index.js",
@@ -14,7 +14,6 @@
     "build:cjs": "tsc -p src",
     "build:esm": "tsc -p src --module es2015 --outDir ./lib-esm",
     "example": "tsc -p example && node example-js/example/index.js",
-    "publish-package":
-      "yarn build && yarn version && git push && git push --tags && npm publish"
+    "publish-package": "yarn build && yarn version && git push && git push --tags && npm publish"
   }
 }
